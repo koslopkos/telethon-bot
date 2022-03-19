@@ -1,1 +1,1 @@
-python-3.9.6
+process: python main.py
